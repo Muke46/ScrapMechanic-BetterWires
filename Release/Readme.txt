@@ -3,7 +3,7 @@ This mod makes the wires and bearings easier to see. It adds a dark contour on w
 Steam workshop link:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2623326387
 
-Work with the right folder depending on your game version (0.5 or 0.6 test)
+Work with the right folder depending on your game version (0.5 Stable or 0.6 Test)
 For the test version remember to go to: "...\Steam\SteamApps\common\Scrap Mechanic\Cache" and delete Texture and Mesh folders before starting the game, otherwise you will see no changes 
 
 **HOW TO INSTALL:**
