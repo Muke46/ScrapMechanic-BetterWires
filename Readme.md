@@ -2,6 +2,9 @@ This mod makes the wires and bearings easier to see. It adds a dark contour on w
 
 ![Alt text](preview.jpg?raw=true)
 
+Steam workshop link:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2623326387
+
 **HOW TO INSTALL:**
 
 Goto:
