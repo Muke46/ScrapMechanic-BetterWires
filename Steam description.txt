@@ -2,17 +2,38 @@
 
 This mod makes the wires and bearings easier to see. It adds a dark contour on wires, bearings and connection points to make them more visible. 
 
+Work with the right folder depending on your game version (0.5 or 0.6 test)
+For the test version remember to go to: "...\Steam\SteamApps\common\Scrap Mechanic\Cache" and delete Texture and Mesh folders before starting the game, otherwise you will see no changes 
+
+
+
 [h1] HOW TO INSTALL: [/h1]
 [list]
-[*] Go to:
-"...\Steam\SteamApps\workshop\content\387990\2623326387"
-[*]Select the folder depending on the game version (0.5 Version or 0.6 TestVersion)
+[*]Go to:
+"...\Steam\SteamApps\workshop\content\387990\2623326387\Game-Version"
 [*] Copy the Data folder into:
 "...\Steam\SteamApps\common\Scrap Mechanic"
-[*] Replace the exsiting files.
-[*]ONLY For the Test version Go to:
-"...\Steam\SteamApps\common\Scrap Mechanic\cache" 
-	and delete texture and mesh folders.
+	and replace the exsiting files.
+[/list]
+
+[h1] HOW TO MOD UNCONNECTED BEARINGS [/h1]
+This feature is experimental, the unconnected bearing uses a "generic" texture that could be used by other things.
+I could not find any broken texture with this mod applied, if you do please let me know!
+[list]
+[*]Go to:
+"...\Steam\SteamApps\workshop\content\387990\2623326387\Game-Version\NotConnectedBearing"
+[*]Copy the Data folder into:
+"...\Steam\SteamApps\common\Scrap Mechanic\Data\Texture"
+[/list]
+
+[h1] HOW TO CHANGE TO ALTERNATIVE BEARINGS, WIRES AND DOTS [/h1]
+After the normal installation:
+[list]
+[*]Go to:
+"...\Steam\SteamApps\workshop\content\387990\2623326387\Game-Version\Alternative"
+[*]Choose what you want replace, then copy choosed folder's content to:
+"...\Steam\SteamApps\common\Scrap Mechanic"
+	and replace the existing files.
 [/list]
 
 [h1] HOW TO UNINSTALL: [/h1]
@@ -21,48 +42,16 @@ The easier way is to use the steam tool to "Verify integrity of game files".
 If you want to restore the original files manually:
 [list]
 [*]Go to:
-"...\Steam\SteamApps\workshop\content\387990\2623326387\Backup"
+"...\Steam\SteamApps\workshop\content\387990\2623326387\Game-Version\Backup"
 [*]Select the folder depending on game version and copy the Data folder into:
 "...\Steam\SteamApps\common\Scrap Mechanic"
-	(replacing the exsisting files).
+	and replace the exsisting files.
 [/list]
-
-[h1] HOW TO CHANGE BEARINGS TO SMALL [/h1]
-After the normal installation:
-[list]
-[*]Go to:
-"...\Steam\SteamApps\common\Scrap Mechanic\Data\Mesh"
-[*]Rename the file "bearing_connect.mesh" to something else like "bearing_connect_standard.mesh"
-[*]Rename the file "bearing_connect_small.mesh" to "bearing_connect.mesh"
-[/list]
-
-(if you don't see the ".mesh" at the end of the name, just ignore that part).
-
-[h1]HOW TO CHANGE ALTERNATIVE MOTORPOINT AND WIRES [/h1]
-After the normal installation
-[list]
-[*]Go to:
-"...\Steam\SteamApps\common\Scrap Mechanic\Data\Textures\ConnectTool"
-[*]Rename the files like with the bearings choosing the texture you want.
-[*]Remember to delete cache folder if you already launched the game.
-[/list]
-
-[h1] HOW TO MOD UNCONNECTED BEARINGS [/h1]
-This feature is experimental, the unconnected bearing uses a "generic" texture that could be used by other things.
-I could not find any broken texture with this mod applied, if you do please let me know!
-[list]
-[*]To install, copy transparent.tga from the folder:
-"...\Steam\SteamApps\workshop\content\387990\2623326387\NotConnectedBearing"
-[*]Paste it in:
-"...\Steam\SteamApps\common\Scrap Mechanic\Data\Texture"
-[/list]
-
-
 
 Do you like the mod? Remember to vote!
 [img]https://i.imgur.com/CGVIOUV.gif[/img]
 
-You don't like the mod? Let us know us why and how we can improve it with a comment or a new discussion! Thanks.
+You don't like the mod? Let us know us why and how we can improve it with a comment or a new discussion!
 
 Thanks for all the feedback and support.
 
