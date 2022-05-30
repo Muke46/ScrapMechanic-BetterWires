@@ -4,7 +4,7 @@ This mod makes the wires and bearings easier to see. It adds a dark contour on w
 [h1] HOW TO INSTALL: [/h1]
 [list]
 [*]Go to:
-"...\Steam\SteamApps\workshop\content\387990\2623326387\Game-Version"
+"...\Steam\SteamApps\workshop\content\387990\2623326387"
 [*] Copy the Data folder into:
 "...\Steam\SteamApps\common\Scrap Mechanic"
 	and replace the exsiting files.
@@ -22,7 +22,7 @@ We could not find any broken texture with this mod applied, if you do please let
 After the normal installation:
 [list]
 [*]Go to:
-"...\Steam\SteamApps\workshop\content\387990\2623326387\Game-Version\Alternative"
+"...\Steam\SteamApps\workshop\content\387990\2623326387\Alternative"
 [*]Choose what you want replace, then copy choosed folder's content to:
 "...\Steam\SteamApps\common\Scrap Mechanic"
 	and replace the existing files.
@@ -38,7 +38,7 @@ The easier way is to use the steam tool to "Verify integrity of game files".
 If you want to restore the original files manually:
 [list]
 [*]Go to:
-"...\Steam\SteamApps\workshop\content\387990\2623326387\Game-Version\Backup"
+"...\Steam\SteamApps\workshop\content\387990\2623326387\Backup"
 [*]Select the folder depending on game version and copy the Data folder into:
 "...\Steam\SteamApps\common\Scrap Mechanic"
 	and replace the exsisting files.
